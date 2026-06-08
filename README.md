@@ -11,18 +11,17 @@ This browser-based 3D visualization proof-of-concept of the Huldra offshore plat
 Equinor ASA. Data matured by Aker Kværner and Rosenberg Verft distributed via Databricks Marketplace under CC BY 4.0.
 
 ## Citation
-If you use this repository, the 3D visualization models, technical assets, or media in your own work, please cite it using the following format:
+If you reference this technical 3D visualization or its media assets in your own work, please cite this repository using the following format:
 
 ### APA Format
-Postanes, M. B. (2026). *Huldra Offshore Platform Visualization 3D*. GitHub Repository. https://github.com/maribickpostanes/Huldra-Offshore-Platform-Visualization-3D
+Postanes, M. (2026). *Huldra Offshore Platform Visualization 3D*. GitHub Repository. https://github.com/maribickpostanes/Huldra-Offshore-Platform-Visualization-3D
 
 ### BibTeX Format
 ```bibtex
 @misc{postanes2026huldra,
-  author        = {Maribick Postanes},
+  author       = {Maribick Postanes},
   title        = {Huldra Offshore Platform Visualization 3D},
   year         = {2026},
   publisher    = {GitHub},
   journal      = {GitHub Repository},
-  howpublished = {\url{[https://github.com/maribickpostanes/Huldra-Offshore-Platform-Visualization-3D](https://github.com/maribickpostanes/Huldra-Offshore-Platform-Visualization-3D)}}
-}
+  howpublished = {\url{[https://github.com/maribickpostanes/Huldra-Offshore-Platform-Visualization-3D](https://github.com/maribickpostanes/Huldra-Offshore-Platform-Visualization-3D)}}}
