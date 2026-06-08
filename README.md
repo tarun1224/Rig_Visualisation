@@ -3,8 +3,7 @@ This browser-based 3D visualization proof-of-concept of the Huldra offshore plat
 
 <img width="1920" height="1080" alt="01_Huldra Offshore Platform 3D Integrated View" src="https://github.com/user-attachments/assets/d1ccf90c-aae3-4c1b-b782-7f6f8bdd4c85" />
 
-
-<video src="Huldra Platform Integrated Engineering View.mp4" width="100%" controls></video>
+<video src="https://github.com/maribickpostanes/Huldra-Offshore-Platform-Visualization-3D/blob/951d927018027471bdbde07032089663a9d64207/Huldra%20Platform%20Integrated%20Engineering%20View.mp4" width="100%" controls></video>
 
 ## Data Credit and Source
 Equinor ASA. Data matured by Aker Kværner and Rosenberg Verft distributed via Databricks Marketplace under CC BY 4.0.
