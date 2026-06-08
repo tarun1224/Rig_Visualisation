@@ -13,10 +13,10 @@ Equinor ASA. Data matured by Aker Kværner and Rosenberg Verft distributed via D
 ## Citation
 If you reference this technical 3D visualization or its media assets in your own work, please cite this repository using the following format:
 
-- ### APA Format
+#### APA Format
 Postanes, M. (2026). *Huldra Offshore Platform Visualization 3D*. GitHub Repository. https://github.com/maribickpostanes/Huldra-Offshore-Platform-Visualization-3D
 
-- ### BibTeX Format
+#### BibTeX Format
 ```bibtex
 @misc{postanes2026huldra,
   author       = {Maribick Postanes},
