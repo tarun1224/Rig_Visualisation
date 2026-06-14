@@ -27,7 +27,6 @@ Postanes, M. (2026). *Huldra Offshore Platform Visualization 3D (Based on asset 
   journal      = {GitHub Repository},
   howpublished = {\url{https://github.com/maribickpostanes/Huldra-Offshore-Platform-Visualization-3D}},
   note         = {Based on the open-source 3D model of Huldra by Equinor ASA.}}
-=======
+
 # Rig_Visualisation
 Rig related images
->>>>>>> 98a24ffbfdaca36ca3fb9831a5e4f81e88eadfc1
