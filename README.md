@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 3D Huldra Offshore Platform Visualization using Python and Plotly
 This browser-based 3D visualization proof-of-concept of the Huldra offshore platform model utilizes as-built data provided by Equinor ASA via Databricks Marketplace to demonstrate navigation of complex engineering layouts using Python and Plotly. Serving to test spatial data handling and asset visualization within standard web environments, this repository serves as visual documentation, containing snapshots and a video of the 3D model visualization while the source code and interactive HTML assets are not included.
 
@@ -26,3 +27,7 @@ Postanes, M. (2026). *Huldra Offshore Platform Visualization 3D (Based on asset 
   journal      = {GitHub Repository},
   howpublished = {\url{https://github.com/maribickpostanes/Huldra-Offshore-Platform-Visualization-3D}},
   note         = {Based on the open-source 3D model of Huldra by Equinor ASA.}}
+=======
+# Rig_Visualisation
+Rig related images
+>>>>>>> 98a24ffbfdaca36ca3fb9831a5e4f81e88eadfc1
